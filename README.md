@@ -28,30 +28,30 @@ This portfolio is a work in progress and will be regularly updated with new tool
   
 <details>
   <summary>Main Page</summary>
-  ![Main Page](project_images/project_main_page.png)
+  <img src="project_images/project_main_page.png" alt="Main Page">
 </details>
 
 <details>
   <summary>Inventory Balance</summary>
-  ![Inventory Balance](project_images/project_inventory_balance.png)
+  <img src="project_images/project_inventory_balance.png" alt="Inventory Balance">
 </details>
 
 <details>
   <summary>Inventory Top 10 values</summary>
-  ![Inventory Top 10 values](project_images/project_inventory_value_topvalues.png)
+  <img src="project_images/project_inventory_value_topvalues.png" alt="Inventory Top 10 values">
 </details>
 
 <details>
   <summary>Orders & Quotes</summary>
-  ![Orders & Quotes](project_images/project_orders_quotes.png)
+  <img src="project_images/project_orders_quotes.png" alt="Orders & Quotes">
 </details>
 
 <details>
   <summary>Orders by Products</summary>
-  ![Orders by Products](project_images/project_orders_by_products.png)
+  <img src="project_images/project_orders_by_products.png" alt="Orders by Products">
 </details>
 
 <details>
   <summary>Orders and Quotes by Time</summary>
-  ![Orders and Quotes by Time](project_images/project_orders_quotes_by_time.png)
+  <img src="project_images/project_orders_quotes_by_time.png" alt="Orders and Quotes by Time">
 </details>
