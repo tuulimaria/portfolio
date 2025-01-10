@@ -25,25 +25,33 @@ This portfolio is a work in progress and will be regularly updated with new tool
 ### Power BI Project
 - This exercise is part of the school project, where a Power BI solution was independently designed based on the provided data.
 - This project is presented using the screenshots below.
-<details>
-  <summary>Click to see details</summary>
-
-  Main Page:
-  ![Main Page](project_images/project_main_page.png)
-
-  Inventory Balance:
-  ![Inventory Balance](project_images/project_inventory_balance.png)
-
-  Inventory Top 10 values:
-  ![Inventory Top 10 values](project_images/project_inventory_value_topvalues.png)
-
-  Orders & Quotes:
-  ![Orders & Quotes](project_images/project_orders_quotes.png)
   
-  Orders by Products:
+<details>
+  <summary>Main Page</summary>
+  ![Main Page](project_images/project_main_page.png)
+</details>
+
+<details>
+  <summary>Inventory Balance</summary>
+  ![Inventory Balance](project_images/project_inventory_balance.png)
+</details>
+
+<details>
+  <summary>Inventory Top 10 values</summary>
+  ![Inventory Top 10 values](project_images/project_inventory_value_topvalues.png)
+</details>
+
+<details>
+  <summary>Orders & Quotes</summary>
+  ![Orders & Quotes](project_images/project_orders_quotes.png)
+</details>
+
+<details>
+  <summary>Orders by Products</summary>
   ![Orders by Products](project_images/project_orders_by_products.png)
+</details>
 
-  Orders and Quotes by Time:
+<details>
+  <summary>Orders and Quotes by Time</summary>
   ![Orders and Quotes by Time](project_images/project_orders_quotes_by_time.png)
-
 </details>
