@@ -27,9 +27,9 @@ This portfolio is a work in progress and will be regularly updated with new tool
 - Download [Finance_report](Finance_report_practise.pbix) Power BI File
   
 <img src="project_images/finance_report_picture.png" alt="Finance Report" width="70%">
-<br><br>
+
   
-### Power BI Project
+### Inventory & Sales Project
 - This exercise is part of the school project, where a Power BI solution was independently designed based on the provided data.
 - This project is presented using the screenshots below.
   
