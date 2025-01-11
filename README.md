@@ -16,42 +16,47 @@ This portfolio is a work in progress and will be regularly updated with new tool
 - This project examines the climate through air temperature, precipitation and snow depth.
 - [Download ClimateData_Report Power BI File](ClimateData_Report.pbix)
   
+  Main Page:
+  <img src="project_images/ClimateData_mainpage.png" alt="ClimateData Mainpage" width="50%>
+  
 
 ### Finance Report
 - This exercise is a tutorial from Microsoft's Learn platform. See the tutorial instructions [here](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-excel-stunning-report).
 - [Download Finance_report Power BI File](Finance_report_practise.pbix)
+
+  <img src="project_images/finance_report_picture.png" alt="Finance Report" width="50%>
   
   
 ### Power BI Project
 - This exercise is part of the school project, where a Power BI solution was independently designed based on the provided data.
 - This project is presented using the screenshots below.
   
-<details>
-  <summary>Main Page</summary>
-  <img src="project_images/project_main_page.png" alt="Main Page">
-</details>
+  <details>
+    <summary>Main Page</summary>
+    <img src="project_images/project_main_page.png" alt="Main Page">
+  </details>
 
-<details>
-  <summary>Inventory Balance</summary>
-  <img src="project_images/project_inventory_balance.png" alt="Inventory Balance">
-</details>
+  <details>
+    <summary>Inventory Balance</summary>
+    <img src="project_images/project_inventory_balance.png" alt="Inventory Balance">
+  </details>
 
-<details>
-  <summary>Inventory Top 10 values</summary>
-  <img src="project_images/project_inventory_value_topvalues.png" alt="Inventory Top 10 values">
-</details>
+  <details>
+    <summary>Inventory Top 10 values</summary>
+    <img src="project_images/project_inventory_value_topvalues.png" alt="Inventory Top 10 values">
+  </details>
 
-<details>
-  <summary>Orders & Quotes</summary>
-  <img src="project_images/project_orders_quotes.png" alt="Orders & Quotes">
-</details>
+  <details>
+    <summary>Orders & Quotes</summary>
+    <img src="project_images/project_orders_quotes.png" alt="Orders & Quotes">
+  </details>
 
-<details>
-  <summary>Orders by Products</summary>
-  <img src="project_images/project_orders_by_products.png" alt="Orders by Products">
-</details>
+  <details>
+    <summary>Orders by Products</summary>
+    <img src="project_images/project_orders_by_products.png" alt="Orders by Products">
+  </details>
 
-<details>
-  <summary>Orders and Quotes by Time</summary>
-  <img src="project_images/project_orders_quotes_by_time.png" alt="Orders and Quotes by Time">
-</details>
+  <details>
+    <summary>Orders and Quotes by Time</summary>
+    <img src="project_images/project_orders_quotes_by_time.png" alt="Orders and Quotes by Time">
+  </details>
