@@ -24,7 +24,7 @@ This portfolio is a work in progress and will be regularly updated with new tool
 - This exercise is a tutorial from Microsoft's Learn platform. See the tutorial instructions [here](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-excel-stunning-report).
 - [Download Finance_report Power BI File](Finance_report_practise.pbix)
 
-  <img src="project_images/finance_report_picture.png" alt="Finance Report" width="50%>
+  <img src="project_images/finance_report_picture.png" alt="Finance Report" width="50%> 
   
   
 ### Power BI Project
