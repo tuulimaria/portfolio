@@ -9,7 +9,7 @@ This portfolio is a work in progress and will be regularly updated with new tool
 
 ## Power BI -projects
 
-### Climate data from Finland
+### <strong>Climate data from Finland</strong>
 
 
 
@@ -21,7 +21,7 @@ This portfolio is a work in progress and will be regularly updated with new tool
   <img src="project_images/ClimateData_mainpage.png" alt="ClimateData Mainpage" width="70%">
   <br><br>
   
-### Finance Report
+### <strong>Finance Report</strong>
 
 - This exercise is a tutorial from Microsoft's Learn platform. See the tutorial instructions [here](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-excel-stunning-report).
 - Download [Finance_report](Finance_report_practise.pbix) Power BI File
@@ -29,7 +29,7 @@ This portfolio is a work in progress and will be regularly updated with new tool
 <img src="project_images/finance_report_picture.png" alt="Finance Report" width="70%">
 
   
-### Inventory & Sales Project
+### <strong>Inventory & Sales Project</strong>
 - This exercise is part of the school project, where a Power BI solution was independently designed based on the provided data.
 - This project is presented using the screenshots below.
   
